@@ -9,12 +9,12 @@ This package provides a function `JsonZiip` that takes JSON data and an output f
 ## Installation
 
 ```bash
-npm install your-package-name
+npm install json-ziip
 ```
 ## Usage
 
 ``` bash
-import { JsonZiip } from 'your-package-name';
+import { JsonZiip } from 'json-ziip';
 
 const jsonData = {
     key: 'value',
