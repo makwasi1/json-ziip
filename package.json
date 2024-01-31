@@ -1,6 +1,6 @@
 {
   "name": "json-ziip",
-  "version": "0.1.4",
+  "version": "1.0.1",
   "description": "A package that tranforms a json object into a zipped file.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
